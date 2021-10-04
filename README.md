@@ -1,8 +1,5 @@
 # Languages I "know"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph4n70m-404&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-**I can bullshit my way through:**
-- JavaScript
-- Shell script
 
 # What I'm generally working on
 - Building roms for Sofiar
